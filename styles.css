@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(34, 34, 54);
+}
+h1,
+h2 {
+    color: aquamarine;
+}
+
+p,
+li {
+    color: bisque;
+}
+
+li {
+    list-style-type: circle;
+}
+
+.doing {
+    color: palegreen;
+    font-weight: bold;
+}
+
+li:hover {
+    text-decoration: underline;
+}
