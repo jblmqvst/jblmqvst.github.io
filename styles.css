@@ -1,9 +1,16 @@
-body {
+html {
     background-color: rgb(34, 34, 54);
 }
-h1,
-h2 {
+body {
+    width: auto;
+    margin: 3 auto;
+    padding: 20px;
+}
+
+h1 {
     color: aquamarine;
+    text-align: center;
+    margin: 0;
 }
 
 p,
