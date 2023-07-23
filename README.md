@@ -1,5 +1,3 @@
-# jblmqvst.github.io
-
-## Jori's Website
+# Jori's Website
 
 Fooling around with web technologies
