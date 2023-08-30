@@ -19,6 +19,7 @@ li {
 }
 
 li {
+    color: violet;
     list-style-type: circle;
 }
 
@@ -27,6 +28,13 @@ li {
     font-weight: bold;
 }
 
-li:hover {
-    text-decoration: underline;
+.box {
+    margin: 5px;
+    width: 50px;
+    height: 20px;
+    background-color: aquamarine;
+}
+
+.box:hover {
+    background-color: violet;
 }
